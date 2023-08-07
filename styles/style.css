@@ -52,8 +52,8 @@ header{
 
 
 body{
-    margin-left: 180px;
-    margin-right:180px ;
+    margin-left: 20px;
+    margin-right:20px ;
     margin-top: 0px;
 }
 .mantenimiento_img{
@@ -140,4 +140,28 @@ body{
 
     background-color: #e7b987;
     border-color: #DFD4C8;
+    }
+
+.card{
+    border-color: white;
+}
+
+.nav-item.active a,
+.nav-link:hover {
+    background-color: #DFD4C8;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.btn-outline-success{
+    border-color: #DFD4C8;
+    color: black;
+    background-color: white;
+}
+.btn-outline-success:hover{
+    background-color: #DFD4C8;
+    border-color: #DFD4C8;
+    color: black;
+
     }
