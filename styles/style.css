@@ -128,3 +128,16 @@ body{
     display: flex;
     flex-wrap: wrap;
 }
+
+.btn-primary{
+    background-color: #DFD4C8;
+    border-color: #DFD4C8;
+    color: black;
+    
+    
+}
+.btn-primary:hover{
+
+    background-color: #e7b987;
+    border-color: #DFD4C8;
+    }
